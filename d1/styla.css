@@ -1,0 +1,24 @@
+body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqM9aGjr7c6Sv8-J8HJCDdp9sxHPBZgiG8);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+    background-attachment: fixed;
+    backdrop-filter: blur(50%);
+    
+}
+h4{
+    background-color: aquamarine;
+    display: inline;;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border: 2px dotted red;
+}
+span{
+    font-style: italic;
+    color: rgb(172, 96, 243);
+
+}
+div{
+    color: rgb(84, 163, 6);
+    
+}

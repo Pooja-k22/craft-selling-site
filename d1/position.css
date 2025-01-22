@@ -1,0 +1,32 @@
+.row{
+    position: relative;
+    width: 100%;
+    height: 500px;
+    background-color: rgb(172, 230, 113);
+}
+.col{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+}
+.col1{
+    background-color: chocolate;
+    left: 100px;
+    top: 50px;
+}
+
+.col2{
+    background-color: rgb(98, 108, 237);
+    left: 400px;
+    top: 50px;
+}
+.col3{
+    background-color: rgb(159, 58, 162);
+    left: 700px;
+    top: 50px;
+}
+.col4{
+    background-color: rgb(236, 65, 65);
+    left: 1000px;
+    top: 50px;
+}
